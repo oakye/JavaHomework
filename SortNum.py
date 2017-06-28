@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Student: Liz Kao X124807
+# Student: Liz -----------
 # Module 7, part 2: Sort a list of numbers into ascending order
 # return the mean value
 # re-order these numbers: 3,9,7,4,0,2
