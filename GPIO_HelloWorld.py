@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Student: Liz Kao X124807
+# Student: Liz ---------
 # Module 7 part 1: Have the LED spell out "Hello World" in Morse code.
 
 
