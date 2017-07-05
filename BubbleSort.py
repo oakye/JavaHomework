@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Student: Liz Kao X124807
+# Student: Liz K-- --------
 #
 # Module 8, part 2: Bubble sort
 #
